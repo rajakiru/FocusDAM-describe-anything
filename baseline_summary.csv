@@ -1,0 +1,6 @@
+Metric,Value
+Total Predictions,100
+Unique Images,76
+Avg Caption Length (words),36.6
+Min Caption Length (words),12
+Max Caption Length (words),74
